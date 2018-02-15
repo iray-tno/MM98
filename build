@@ -1,0 +1,3 @@
+g++ --std=gnu++11 ./PrincessesAndMonsters.cpp;
+
+java -jar ./tester.jar -exec "./a.exe" -seed 2 -vis -delay 100 -size 20 -debug;
